@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Brandon
 
-<!--
-**bzells11/bzells11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freshman at Ohio State's Fisher College of Business, building software products.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**WaitLess**: an iOS app that shows real-time urgent care wait times, so people can find the fastest care near them. Fully built and launching soon.
+
+## What I've built
+
+**REW AI**: an AI-powered texting platform for real estate wholesalers. It used Claude to hold conversations with property owners and flag which leads were worth pursuing. Built with React, Node, Supabase, Twilio, and the Claude API.
+
+## Other things I do
+
+Outside of building software, I write and produce my own music.
