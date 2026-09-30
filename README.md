@@ -1,10 +1,10 @@
-Hi, I'm Brandon
+# Hi, I'm Brandon
 
 Freshman at Ohio State's Fisher College of Business, building software products.
 
 ## What I'm building
 
-**WaitLess**: an iOS app that shows real-time urgent care wait times, so people can find the fastest care near them. Fully built and launching soon.
+**WaitLess**: an iOS app that shows real-time urgent care wait times, so people can find the fastest care near them. Launching this fall.
 
 ## What I've built
 
