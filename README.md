@@ -10,6 +10,8 @@ Freshman at Ohio State's Fisher College of Business, building software products.
 
 **REW AI**: an AI-powered texting platform for real estate wholesalers. It used Claude to hold conversations with property owners and flag which leads were worth pursuing. Built with React, Node, Supabase, Twilio, and the Claude API.
 
+**Forge**: a website that turns a text description into a 3D model, using the Claude API and Three.js.
+
 ## Other things I do
 
 Outside of building software, I write and produce my own music.
